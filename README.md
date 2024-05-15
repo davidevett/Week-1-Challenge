@@ -19,6 +19,15 @@ In this project the object goal was to earn a better understanding of simantic e
 - Along with misnaming the files there were issues with too much code in the CSS file, clutering the file up. Though this was technically corrrect we went through and condensed the the code to make the following edits easier. 
 - A README file was added to to contain information of the projects progress
 
+## Link
+
+- https://davidevett.github.io/Week-1-Challenge/
+
+## Screenshot
+
+![](./assets/images/Capture.PNG)
+
+
 ## Credits
 
 Lead Designers
